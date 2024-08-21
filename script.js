@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const password = document.getElementById("password").value;
     const errorMessage = document.getElementById("error-message");
 
-    const validUsername = "Teh ajriya c";
+    const validUsername = "TAC";
     const validPassword = "c";
 
     if (username === validUsername && password === validPassword) {
